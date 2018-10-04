@@ -1,7 +1,7 @@
 ## url del sitio:
-### https://lawrenette.github.io/Proyecto_Final/
+### http://186.64.118.50/~mpnacevedo/
 ## url video de la página
-### http
+### https://youtu.be/ZwB6jlhaWxE
 ------------------------
 
 # Proyecto Final
@@ -47,9 +47,9 @@
 ### Requerimientos visuales:
 
 - Layout : Se hará con Bootstrap
-- Titulos: (Aún por ver)
-- Parrafos: (Aún por ver)
-- Banner y footer: (Aún por ver)
+- Titulos: Raleway
+- Parrafos: Delius
+- Banner y footer: Delius
 
 ### Descripción de las secciones, layout, estructura HTML y clases CSS que decidí usar.
 
@@ -72,7 +72,6 @@
 	- footer_logo
 	- footer_social
 	- footer_list
-	- footer_map
 
 ### Estructura de directorio
 
@@ -88,7 +87,7 @@
 ### Foto con los sketch versión escritorio y móvil.
 
 **Versión escritorio**
-![Pagina web](assets/images/imagen01.png)
+![Pagina web](\pagina sin wp\assets\images/imagen01.png)
 
 **Versión móvil**
-![Pagina web](assets/images/imagen02.png)
+![Pagina web](\pagina sin wp\assets\images/imagen02.png)
