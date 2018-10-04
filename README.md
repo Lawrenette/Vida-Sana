@@ -1,5 +1,5 @@
 ## url del sitio:
-### http://186.64.118.50/~mpnacevedo/
+### http://186.64.118.50/~mpnacevedo/wordpress/
 ## url video de la página
 ### https://youtu.be/ZwB6jlhaWxE
 ------------------------
