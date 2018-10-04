@@ -2,6 +2,13 @@
 ### http://186.64.118.50/~mpnacevedo/wordpress/
 ## url video de la página
 ### https://youtu.be/ZwB6jlhaWxE
+
+- base de datos: mpnaceve_vida_sana
+- usuario MySQL: mpnaceve_lawren
+- clave: 2012828163lawren
+
+- usuario wp: lawrenette
+- clave wp: 2012828163lawren0905
 ------------------------
 
 # Proyecto Final
